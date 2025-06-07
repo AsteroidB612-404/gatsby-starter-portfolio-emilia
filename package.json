@@ -1,11 +1,10 @@
 {
   "private": true,
-  "name": "Asteroid B612",
+  "name": "Asteroid-B612",
   "description": "Personal portfolio site of Asteroid B612, a part-time photographer",
   "version": "0.3.16",
   "author": "Asteroid B612",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-emilia",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
