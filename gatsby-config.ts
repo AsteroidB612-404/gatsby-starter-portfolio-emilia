@@ -15,7 +15,7 @@ const config: GatsbyConfig = {
     siteDescription: `AsteroidB612 is a Chinese photographer based in Berkeley, USA, specializing in graduation, portrait, and documentary photography.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `AsteroidB612`,
+    author: "TEST-JUST-FOR-DEBUG-12345",
     location: `USA, Berkeley`,
     socials: [],
   },
