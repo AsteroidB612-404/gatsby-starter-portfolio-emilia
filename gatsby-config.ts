@@ -8,14 +8,15 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emilia-core/gatsby-config.mjs
-    siteTitle: `Emilia`,
-    siteTitleAlt: `Emilia - Gatsby Starter Portfolio`,
-    siteHeadline: `Emilia - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://emilia.lekoarts.de`,
-    siteDescription: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.`,
+    siteTitle: `AsteroidB612`,
+    siteTitleAlt: `AsteroidB612 Photography`,
+    siteHeadline: `Visual storytelling through the lens`,
+    siteUrl: `https://asteroidb612.vercel.app`,
+    siteDescription: `AsteroidB612 is a Chinese photographer based in Berkeley, USA, specializing in graduation, portrait, and documentary photography.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    author: `AsteroidB612`,
+    location: `USA, Berkeley`,
   },
   trailingSlash: `always`,
   plugins: [
