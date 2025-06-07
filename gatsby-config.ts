@@ -17,6 +17,7 @@ const config: GatsbyConfig = {
     siteLanguage: `en`,
     author: `AsteroidB612`,
     location: `USA, Berkeley`,
+    socials: []
   },
   trailingSlash: `always`,
   plugins: [
