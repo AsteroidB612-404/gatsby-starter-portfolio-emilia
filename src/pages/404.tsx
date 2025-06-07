@@ -1,5 +1,5 @@
 import * as React from "react"
-import { HeadFC, Link, PageProps } from "gat"#gatsby
+import { HeadFC, Link, PageProps } from "gatsby"#gatsby
 import { Container, Link as TLink } from "theme-ui"
 import { Themed } from "@theme-ui/mdx"
 import Header from "@lekoarts/gatsby-theme-emilia/src/components/header"
